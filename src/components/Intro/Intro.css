@@ -31,3 +31,10 @@
     background: blue;
     width: 100%;
 }
+
+@media (max-width: 639px) {
+    #door-section{
+        text-align: center;
+    }
+
+}
